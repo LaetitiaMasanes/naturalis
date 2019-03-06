@@ -1,2 +1,2 @@
 # naturalis
-Design, structure et mise en forme de la page d'accueil d'un site sur la médecine naturelle. Ce design n'est pas encore responsive mais il le deviendra une fois formé sur Bootstrap.
+Design, structure et mise en forme de la page d'accueil d'un site sur la médecine naturelle. Ce design n'est pas encore responsive.
