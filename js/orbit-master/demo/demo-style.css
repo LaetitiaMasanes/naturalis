@@ -1,0 +1,12 @@
+/* These are just the demo styles and these can be removed and Orbit
+will still work like a champ (except any content block needs a background which
+our demo gets from this sheet) */
+
+.container {
+/*    padding: 100px;*/
+}
+
+.content { background: url(dummy-images/slider-1-index.jpg); }
+
+
+.orbit-wrapper { margin-bottom: 100px; }
